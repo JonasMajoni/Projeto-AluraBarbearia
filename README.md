@@ -1,6 +1,6 @@
 # Projeto-AluraBarbearia
 
-<h1> Descrição do projeto </h1>
+<h3> Descrição do projeto </h3>
 <p>Projeto feito através da plataforma alura como parte de estudos do curso HTML e CSS.</p>
 </br></br></br>
 
